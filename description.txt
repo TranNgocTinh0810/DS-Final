@@ -1,0 +1,17 @@
+Country: Tên quốc gia.
+confirmed: Số ca mắc Covid-19 đã xác nhận (int).
+recovered: Số ca hồi phục (int).
+deaths: Số ca tử vong (int).
+population: Dân số của quốc gia (float).
+sq_km_area: Diện tích của quốc gia (float).
+life_expectancy: Tuổi thọ trung bình của quốc gia.
+elevation_in_meters: Độ cao tính bằng mét so với mật nước biển.
+continent: Quốc gia thuộc lục địa nào.
+abbreviation : Tên viết tắt của quốc gia.
+location: Khu vực của quốc gia.
+iso: Mã Code của quốc gia.
+capital_city: Tên thủ đô của quốc gia.
+lat: Vĩ độ của quốc gia.
+long: Kinh độ của quốc gia.
+updated: Ngày,tháng,năm cập nhật.
+
