@@ -8,6 +8,7 @@
 - **Final.ipynb** : File Jupyter Notebook dùng để tiền xử lí, các phương pháp đánh giá.
 - **Get_Data.ipynb** : File lấy dữ liệu thông qua API trang  https://covid-api.mmediagroup.fr/v1/cases?
 - **Data** : Thư mục chứa các dữ liệu đã được lấy về.
+- **description.txt** : Tệp tin mô tả các thuộc tính của dữ liệu.
 
 
 ### Dữ liệu sau khi chạy File **Get_Data.ipynb**
