@@ -4,17 +4,23 @@
 - MSSV_1 : 18120597 - Trần Ngọc Tịnh
 - MSSV_2 : 18120600 - Nguyễn Ngọc Năng Toàn 
 
+<<<<<<< HEAD
 ### Chủ đề của nhóm
 
 **Sử dụng các mô hình và cách tiền xử lí khác nhau để dự đoán khoảng người chết do dịch bệnh COVID-19 của các quốc gia trên thế giới.**
 
+=======
+>>>>>>> baf394f9c332031abc2db3b273256f0ff3971c38
 ### Các tệp tin của nhóm
 - **Final.ipynb** : File Jupyter Notebook dùng để tiền xử lí, các phương pháp đánh giá.
 - **Get_Data.ipynb** : File lấy dữ liệu thông qua API trang  https://covid-api.mmediagroup.fr/v1/cases?
 - **Data** : Thư mục chứa các dữ liệu đã được lấy về.
 - **description.txt** : Tệp tin mô tả các thuộc tính của dữ liệu.
+<<<<<<< HEAD
 - **Report_TeamWork.docx** : File Word báo cáo về các hoạt động liên quan đến làm việc nhóm, những khó khăn của nhóm gặp phải...
 
+=======
+>>>>>>> baf394f9c332031abc2db3b273256f0ff3971c38
 
 
 ### Dữ liệu sau khi chạy File **Get_Data.ipynb**
